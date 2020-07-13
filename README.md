@@ -1,4 +1,4 @@
-# Heat-Transfer-for-Beam-Temperature-at-Nodes
+# Heat Transfer for Beam (Temperature at Nodes)
 
 ## Problem Description : 
 ### For a beam held at one side to another structure and if that end is to have constant temperature while the open environment is set to another ambient temperature. How does the heat propagates througout the beam and at equilibrium what does the each node point on the beam's temperature will be at. 
