@@ -8,6 +8,6 @@
 
 This repository contains access to two different pdf files that shows the derivation of equations and how to reach the end results for each node
 
-![Node Generation](/HeatBeam Nodes.png)
+![Node Generation](https://github.com/Irfan93/Heat-Transfer-for-Beam-Temperature-at-Nodes-/blob/master/images/HeatBeam%20Nodes.png)
 
-![Node Comparison with exact solution](/Node Solution and Comparison.png)
+![Node Comparison with exact solution](https://github.com/Irfan93/Heat-Transfer-for-Beam-Temperature-at-Nodes-/blob/master/images/Node%20Solution%20and%20Comparison.png)
